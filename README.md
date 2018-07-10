@@ -28,7 +28,9 @@ save and run "python spell_champion.py"
 
 wait a bit and boom it work 
 
-### This script give you french name of spell, modify the var "Language" from "fr" to anything so it give you spell from you Language (it only from fro euw region)
+### Change Language
+
+This script give you french name of spell, modify the var "Language" from "fr" to anything so it give you spell from you Language (it only from fro euw region)
 
 
 Feel free to fork it and tell me issues you have 
