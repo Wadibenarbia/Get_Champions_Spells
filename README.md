@@ -6,7 +6,7 @@ If you Want to run this script for you, you first need to install python 2.7 (su
 it's not working with python 3 because of the "print" syntaxe.
 
 
-<pre Install pip:
+<pre> Install pip: </pre>
 
 sudo apt-get install python-pip
 
