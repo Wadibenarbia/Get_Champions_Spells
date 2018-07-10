@@ -19,6 +19,8 @@ it's not working with python 3 because of the "print" syntaxe.
 
 ### DO NOT UPDATE PIP AS IT SAID it's currently full of bug so just keep pip 8
 
+## How to use it
+
 
 Now if you want to use the script just open spell_champions.py and change the inside of the list called "Names".
 
